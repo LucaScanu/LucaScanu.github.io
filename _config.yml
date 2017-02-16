@@ -29,3 +29,10 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# collections
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
