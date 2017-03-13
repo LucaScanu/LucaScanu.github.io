@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My First Post!"
+title:  "About Me"
 date:   2017-02-16 10:15:52 +0000
 image: /assets/images/luca.jpg
 categories: jekyll update
