@@ -1,9 +1,9 @@
 ---
 layout: project
 title: My First project
-subtitle: My first JS exploration...#wetdrywet
-image: http://fillmurray.com/300/300
-heroku: http://secret-chef.herokuapp.com
+subtitle: Flippit
+image: /assets/images/flippit.png
+heroku: http://thawing-shelf-61387.herokuapp.com
 ---
 
-This is a cool game.
+An object oriented simple card memory game built using JQuery, CSS and an HTML boilerplate which allowed me to practice JavaScript logic.
