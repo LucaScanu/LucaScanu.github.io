@@ -4,7 +4,7 @@ description: Web Developer
 image: /assets/images/luca.jpg
 email: info@gianlucascanu.com
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "www.gianlucascanu.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gianlucascanu
 github_username:  LucaScanu
 
