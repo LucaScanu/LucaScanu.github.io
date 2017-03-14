@@ -25,6 +25,15 @@
   }
 }
 
+.container-logo {
+  width: 300px;
+  margin: $spacer-2;
+  .logo {
+    width: 200px;
+    height: 300px;
+  }
+}
+
 
 
 // Link styles for navigation
@@ -164,7 +173,7 @@
 
 .mt-2 { margin-top: $spacer-2; }
 .mr-2 { margin-right: $spacer-2; }
-.mb-2 { margin-bottom: $spacer-2; }
+.mb-2 { margin-bottom: -50px; }
 .ml-2 { margin-left: $spacer-2; }
 
 .mt-3 { margin-top: $spacer-3; }
@@ -172,7 +181,7 @@
 .mb-3 { margin-bottom: $spacer-3; }
 .ml-3 { margin-left: $spacer-3; }
 
-.mt-4 { margin-top: $spacer-4; }
+.mt-4 { margin-top: $spacer-2; }
 .mr-4 { margin-right: $spacer-4; }
 .mb-4 { margin-bottom: $spacer-4; }
 .ml-4 { margin-left: $spacer-4; }
