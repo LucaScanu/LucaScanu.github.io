@@ -1,0 +1,25 @@
+
+title: Gianluca Scanu
+description: Web Developer
+image: /assets/images/luca.jpg
+email: info@gianlucascanu.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gianlucascanu
+github_username:  LucaScanu
+
+# Build settings
+markdown: kramdown
+theme: jekyll-swiss
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# collections
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
