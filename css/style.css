@@ -66,6 +66,11 @@ img.portfolio {
   margin-right: 5px;
 }
 
+img.logos {
+  width: 40px;
+  height: 40px;
+}
+
 .about-section {
   background-image: url("https://static.pexels.com/photos/287/apple-iphone-desk-laptop.jpg");
   background-size: cover;
